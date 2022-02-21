@@ -1,0 +1,187 @@
+.nlogo{
+	float: left;
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+h1{
+	font-size: 24 em;
+	text-align: center;
+	margin-left: 4px;
+}
+.logser{
+	float: right;
+	margin-left: 90 %;
+}
+
+.srch{
+	height: 3 rem;
+	width: 7 rem;
+	margin-block-end: 2em;
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+.srchbtn{
+	height: 3 rem;
+	width: 7 rem;
+	margin-block-end: 2em;
+	margin-top: 1rem;
+	margin-left: 1rem;
+}
+.lgn{
+	height: 3 rem;
+	width: 7 rem;
+	margin-block-end: 2em;
+	margin-top: 3rem;
+	margin-left: 1rem;
+}
+
+.nhead{
+	font-size: 10 em;
+	margin-left: 1em;
+	color: aqua;
+}
+
+a{
+	text-decoration: none;
+	padding: 3px;
+}
+a:hover{
+	background-color: aqua;
+}
+.nmenu{
+	float: right;
+	font-size: 35 em;
+	flex-wrap: wrap;
+	margin-top: 2em;
+}
+.navbar{
+	background-color: rgb(241, 121, 105);
+	display: flex;
+
+}
+.navbar:hover{
+	box-shadow: crimson;
+}
+
+.nmenu{
+	padding: 5px;
+}
+/*body */
+
+.col-6{
+	float:left;
+	width:68%;
+}
+h3{
+	font-size: 24 rem;
+}
+.card{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+	width:25%;
+	border-radius:5px;
+	transition:0.03s;
+}
+.card:hover{
+	box-shadow: 0 16px 32px 0 rgba(0,0,0,0.5);
+}
+
+.container{
+	text-align:center;
+	padding:3 em;
+}
+img{
+	height: 30 rem;
+	width: 20 rem;
+}
+.row{
+	height: 30 rem;
+	width: 20 rem;
+}
+
+.fab{
+	color:blue;
+}
+.icon2{
+	color:red;
+}
+.icon3{
+	color:#17D6D7;
+}
+
+
+
+.col-3{
+	float: left;
+	border: 1px solid black;
+	width: 24%;
+	margin: 3 em;
+	text-align:center;
+	padding: 2 em;
+}
+.division{
+	height: 92%;
+	width:92%;
+	margin: 1 em;
+}
+
+
+table{
+	border:2px solid black;
+	width: 70%;
+	height:5em;
+	text-align: center;
+}
+
+.title{
+	background-color: green;
+		font-size: 25px;
+	color: gray;
+
+}
+
+
+.head{
+	color: rgb(25, 22, 216) ;
+	background-color:rgb(0, 255, 21);
+	margin: 50 px;
+	text-align:center;
+	padding:10 em;
+	border:3 em solid black;
+	
+}
+
+
+h1{
+	color:blue;
+}
+
+.image{
+	height: 20%;
+	width: 25%;
+}
+
+h4{
+	color: cornsilk;
+}
+.abt{
+   display: inline;
+   position: relative;
+   
+}
+.abt-cont{
+	position: absolute;
+	text-align: left;
+	display: none;
+	top: 20px;
+	right: 0px;
+	background-color: crimson;
+
+}
+.abt-cont a{
+     display: block;
+}
+.abt:hover .abt-cont{
+	display: block;
+
+	background-color: crimson;
+}

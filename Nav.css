@@ -1,0 +1,30 @@
+.navbar .logo img{
+    width: 60px;
+    height: 35px;
+}
+
+.navbar .logo span{
+    font-size: 38px;
+}
+
+.navbar .logser span{
+    font-weight: bold;
+    color: blue;
+}
+
+.navbar .logo{
+    float: left;
+}
+.navbar .logser {
+    float: right;
+}
+.navbar .logser input[type=text]{
+    padding: 5px;
+}
+.navbar .logser input[type=submit]{
+    padding: 5px;
+    background-color: chartreuse;
+}
+.navbar{
+    color: crimson;
+}
